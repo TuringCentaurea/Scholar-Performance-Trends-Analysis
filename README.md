@@ -1,4 +1,4 @@
-# Stock Market Analysis for Tech Company
+# Scholar Performance Trends: Pandemic Impact Analysis
 ## Project Background
 ## Data Structure & Initial Checks      
 ## Executive Summary
