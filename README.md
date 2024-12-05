@@ -20,11 +20,14 @@ An analysis of 1,550 academic records from 2021 and 2023 reveals a significant d
 * For students who took only one test, those who participated in the second test scored an average of 20 points lower than those who took the first test. This confirms that students tend to retain what they have learned more firmly in the short term
 * For students who took only one test, those who participated in the second test scored an average of 9 points lower on the final exam compared to those who took the first test. This highlights the importance of following the course schedule, as students who adhere to the planned course structure tend to gain a better understanding of the course material
 * For students who took both tests, the second test score was, on average, 15 points higher than the first test score
+### Prediction Models Based on Existing Data
+* The most accurate models are the Neural Network Model and Logistic Regression Model, both with an accuracy rate of 45%
 ## Recommendations
 * **The Most Impacted High-Performing Student Group:** The group of highest-performing students experienced the greatest decline. Further research is needed to explore why this group was most affected by the transition, and whether this sharp 30% drop was solely due to the change in teaching modes
 * **Transition of Semester Test Modes:** Students' test scores decreased by approximately 5 points when transitioning from online to offline learning. The greatest impact was observed in the highest-performing group. For future course designs, the teaching team might consider reverting to online tests, which could raise students' average test scores back to pre-pandemic levels, from 80 (fairly good performance) to 85 (excellent performance)
 * **Maintain the Current Course Structure:** The current course design shows the highest correlation between each test and the previous one. The final exam is most closely correlated with the last test, while the first test has the lowest correlation. This suggests that the course structure is well-organized and that students’ learning progresses logically throughout the semester. The teaching team should consider maintaining this current structure
 * **Maintain the Opportunity for Two Tests:** Offering students the chance to take two tests helps those who are actively engaged in their learning (participating in both tests) to achieve better results. Keeping this setup could further improve the performance of this group, leading to more positive academic outcomes
+* **Limitations of Current Data:** The accuracy of various models is currently only up to 45%. The existing data is insufficient to construct a model for predicting final exam scores. In the future, the course planning team will need to record more data (features) for model development
 
 
 
