@@ -12,6 +12,10 @@ An analysis of 1,550 academic records from 2021 and 2023 reveals a significant d
 * The average performance in regular student tests experienced a significant decline, **decreasing by approximately 5 points** from 2021 to 2023
 * The percentage of top-performing students **dropped by 20% annually**, marking the most substantial change among student groups over the two years
 * In 2023, the percentages of upper-mid-performing and mid-performing student groups showed noticeable increases, **rising by 6% and 7%**, respectively, compared to 2021
+### Course Structure Analysis
+* Each test shows the highest correlation with the previous test, indicating that the content of each test is most related to the material covered in the closest prior test
+* The final course test has the highest correlation with the final exam, at 0.48
+* The first course test has the lowest correlation with the final exam, at only 0.23
 ## Recommendations
 
 
