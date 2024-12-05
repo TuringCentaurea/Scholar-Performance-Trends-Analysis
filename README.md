@@ -16,7 +16,16 @@ An analysis of 1,550 academic records from 2021 and 2023 reveals a significant d
 * Each test shows the highest correlation with the previous test, indicating that the content of each test is most related to the material covered in the closest prior test
 * The final course test has the highest correlation with the final exam, at 0.48
 * The first course test has the lowest correlation with the final exam, at only 0.23
+### Analysis of the Importance of Offering Two Test Opportunities
+* For students who took only one test, those who participated in the second test scored an average of 20 points lower than those who took the first test. This confirms that students tend to retain what they have learned more firmly in the short term
+* For students who took only one test, those who participated in the second test scored an average of 9 points lower on the final exam compared to those who took the first test. This highlights the importance of following the course schedule, as students who adhere to the planned course structure tend to gain a better understanding of the course material
+* For students who took both tests, the second test score was, on average, 15 points higher than the first test score
 ## Recommendations
+* **The Most Impacted High-Performing Student Group:** The group of highest-performing students experienced the greatest decline. Further research is needed to explore why this group was most affected by the transition, and whether this sharp 30% drop was solely due to the change in teaching modes
+* **Transition of Semester Test Modes:** Students' test scores decreased by approximately 5 points when transitioning from online to offline learning. The greatest impact was observed in the highest-performing group. For future course designs, the teaching team might consider reverting to online tests, which could raise students' average test scores back to pre-pandemic levels, from 80 (fairly good performance) to 85 (excellent performance)
+* **Maintain the Current Course Structure:** The current course design shows the highest correlation between each test and the previous one. The final exam is most closely correlated with the last test, while the first test has the lowest correlation. This suggests that the course structure is well-organized and that students’ learning progresses logically throughout the semester. The teaching team should consider maintaining this current structure
+* **Maintain the Opportunity for Two Tests:** Offering students the chance to take two tests helps those who are actively engaged in their learning (participating in both tests) to achieve better results. Keeping this setup could further improve the performance of this group, leading to more positive academic outcomes
+
 
 
 
