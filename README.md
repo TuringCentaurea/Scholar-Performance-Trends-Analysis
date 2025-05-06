@@ -39,8 +39,7 @@ An analysis of 1,550 academic records from 2021 and 2023 reveals a significant d
 
 
 ### Prediction Models Based on Existing Data
-* The most accurate models are the Neural Network Model and Logistic Regression Model, both with an accuracy rate of 45%.
-![image](https://github.com/user-attachments/assets/9ccac1cf-2eee-429d-b807-158205c56c1b)
+* The most accurate models are the Neural Network Model and Logistic Regression Model, both with an accuracy rate of 73%.
 
 ## Recommendations
 * **The Most Impacted High-Performing Student Group:** The group of highest-performing students experienced the greatest decline. Further research is needed to explore why this group was most affected by the transition, and whether this sharp 30% drop was solely due to the change in teaching modes.
